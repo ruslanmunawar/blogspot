@@ -2,3 +2,5 @@
 
 
 async src="https://arc.io/widget.min.js#SWirCWrn"></script>
+
+importScripts('https://arc.io/arc-sw-core.js')
