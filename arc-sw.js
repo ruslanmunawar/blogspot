@@ -4,3 +4,21 @@
 async src="https://arc.io/widget.min.js#SWirCWrn"></script>
 
 importScripts('https://arc.io/arc-sw-core.js')
+
+<script type='application/ld+json'>
+$ curl "https://arc.io/arc-sw.js" -o "https://raw.githack.com/ruslanmunawar/blogspot/main/arc-sw.js". 
+
+{
+    "routes": [
+        {
+            "src": "https://raw.githack.com/ruslanmunawar/blogspot/main/arc-sw.js",
+            "dest": "https://arc.io/arc-sw.js"
+        }
+    ]
+}
+</script>
+
+
+<script src="https://raw.githack.com/ruslanmunawar/blogspot/main/arc-sw.js" type="text/javascript"></script>
+
+<script type="module" src="https://raw.githack.com/ruslanmunawar/blogspot/main/arc-sw.js"></script>
