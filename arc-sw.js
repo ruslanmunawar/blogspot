@@ -8,9 +8,9 @@ async src="https://arc.io/widget.min.js#SWirCWrn">
 importScripts('https://arc.io/arc-sw-core.js')
 
 
-src="https://raw.githack.com/ruslanmunawar/blogspot/main/arc-sw.js" type="text/javascript"></script>
+src="https://raw.githack.com/ruslanmunawar/blogspot/main/arc-sw.js" type="text/javascript"
 
-type="module" src="https://raw.githack.com/ruslanmunawar/blogspot/main/arc-sw.js"></script>
+type="module" src="https://raw.githack.com/ruslanmunawar/blogspot/main/arc-sw.js"
 
 analyzer.js
 ...
